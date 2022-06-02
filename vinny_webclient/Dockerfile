@@ -14,7 +14,7 @@ COPY . .
 RUN npm run build
 
 # Expose port
-EXPOSE 8080
+EXPOSE 3003
 
 # Once build is finished, serve result
 CMD node server.js

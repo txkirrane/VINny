@@ -1,0 +1,9 @@
+{
+    "name": "VINny - VIN Lookup",
+    "short_name": "VINny",
+    "description": "VIN # Lookup tool",
+    "display": "fullscreen",
+    "theme_color": "#0d6efd",
+    "lang": "en-US",
+    "start_url": "https://vinny.txkirrane.dev/"
+}
